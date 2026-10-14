@@ -216,4 +216,8 @@ OpenSheetMusicDisplay — MusicXML renderer
 
 Flutter — Mobile UI toolkit
 
-Built with ♪ by Sara YOUSSEF.
+Built with ♪ by Sara YOUSSEF..
+
+## Copyright
+
+© 2026 Sara YOUSSEF. All rights reserved.
