@@ -1,0 +1,4 @@
+class: ScoreListResult
+fields:
+  items: List<Score>
+  total: int

@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "library": "Bibliothèque",
+    "contact": "Contactez-nous"
+  },
+  "home": {
+    "title": "Déchiffrez n'importe quelle partition, note par note.",
+    "subtitle": "Uploadez une image ou un PDF. AppNota détecte les notes et écrit leur nom sous chacune d'elles.",
+    "uploadTitle": "Uploader une partition musicale",
+    "uploadHint": "PNG, JPG, JPEG ou PDF — max 20 Mo",
+    "uploadButton": "Choisir un fichier",
+    "analyzing": "Analyse de la partition…",
+    "download": "Télécharger en PDF",
+    "newUpload": "Uploader un autre fichier",
+    "error": {
+      "type": "Format non supporté. Uploadez un PNG, JPG, JPEG ou PDF.",
+      "size": "Fichier trop volumineux (max 20 Mo).",
+      "generic": "Une erreur est survenue. Réessayez."
+    }
+  },
+  "library": {
+    "title": "Bibliothèque publique",
+    "subtitle": "Parcourez les partitions déjà déchiffrées par la communauté.",
+    "searchPlaceholder": "Rechercher par titre…",
+    "empty": "Aucune partition ne correspond à votre recherche.",
+    "page": "Page {current} sur {total}",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question, un bug, une idée ? Écrivez-nous.",
+    "name": "Votre nom",
+    "email": "Votre email",
+    "message": "Votre message",
+    "send": "Envoyer",
+    "sent": "Merci ! Nous avons bien reçu votre message."
+  },
+  "common": {
+    "close": "Fermer",
+    "loading": "Chargement…"
+  }
+}

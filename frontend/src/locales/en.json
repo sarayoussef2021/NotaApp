@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "library": "Library",
+    "contact": "Contact us"
+  },
+  "home": {
+    "title": "Read any score, note by note.",
+    "subtitle": "Upload a sheet music image or PDF. AppNota detects the notes and writes their names under each one.",
+    "uploadTitle": "Upload a musical partition",
+    "uploadHint": "PNG, JPG, JPEG or PDF — max 20 MB",
+    "uploadButton": "Choose a file",
+    "analyzing": "Analyzing the score…",
+    "download": "Download as PDF",
+    "newUpload": "Upload another file",
+    "error": {
+      "type": "Unsupported format. Please upload a PNG, JPG, JPEG or PDF.",
+      "size": "File too large (max 20 MB).",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+  "library": {
+    "title": "Public library",
+    "subtitle": "Browse scores already deciphered by the community.",
+    "searchPlaceholder": "Search by title…",
+    "empty": "No scores match your search.",
+    "page": "Page {current} of {total}",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "A question, a bug, an idea? Write to us.",
+    "name": "Your name",
+    "email": "Your email",
+    "message": "Your message",
+    "send": "Send",
+    "sent": "Thanks! We received your message."
+  },
+  "common": {
+    "close": "Close",
+    "loading": "Loading…"
+  }
+}

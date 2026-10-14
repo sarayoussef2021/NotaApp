@@ -1,0 +1,11 @@
+class: DetectedNote
+fields:
+  noteId: String
+  type: String
+  pitch: String?
+  octave: int?
+  accidental: String?
+  x: double
+  y: double
+  measure: int
+  staff: String

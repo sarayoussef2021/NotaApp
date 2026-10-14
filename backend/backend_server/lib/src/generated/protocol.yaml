@@ -1,0 +1,8 @@
+contact:
+  - send:
+score:
+  - upload:
+  - list:
+  - getById:
+  - delete:
+  - deleteAll:

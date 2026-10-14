@@ -1,0 +1,23 @@
+class: Score
+table: score
+fields:
+  title: String
+  composer: String?
+  arrangedBy: String?
+  fileName: String
+  fileType: String
+  storagePath: String
+  imageUrl: String
+  engine: String
+  confidence: double?
+  rawMusicXml: String?
+  notes: List<DetectedNote>
+  isPublic: bool
+  ownerId: int?
+  createdAt: DateTime
+  updatedAt: DateTime
+indexes:
+  score_title_idx:
+    fields: title
+  score_created_idx:
+    fields: createdAt
